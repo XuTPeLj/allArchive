@@ -5,6 +5,9 @@
 - [+][dev] zip - deprecated function
 - [-][dev] bz2 - в разработке
 
+# Требование
+- PHP 8.0
+- 
 # Пример
 В файле 
 > example/index.php 
